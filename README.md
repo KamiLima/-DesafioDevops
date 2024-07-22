@@ -3,9 +3,9 @@ O script Terraform deve criar uma máquina virtual na Azure, instalar o Docker n
 
 Instruções detalhadas sobre como executar o código.
 
--Instalar o Terraform.
--Instalar o Azure CLI (para conectar-se a conta Azure)
--Criar uma pasta e colocar o aplicativo terraform e o arquivo main.tf desse repositório.
+- Instalar o Terraform.
+- Instalar o Azure CLI (para conectar-se a conta Azure)
+- Criar uma pasta e colocar o aplicativo terraform e o arquivo main.tf desse repositório.
 
 Todos os comandos necessários em ordem (pelo Prompt de Comando):
 
@@ -18,7 +18,7 @@ terraform init para preparar o projeto e baixar as ferramentas necessárias.
 terraform plan para ver as alterações que o terraform planeja fazer na infraestrutura.
 
 terraform apply para aplicar (fazer as mudanças de fato na infraestrutura. Confirmar com: yes)
--quando o apply estiver completo, ao final vai mostrar informações do banco de dados e o IP píblico.
+- quando o apply estiver completo, ao final vai mostrar informações do banco de dados e o IP píblico.
 
 ssh adminuser@<ip púlico> para conectar-se à máquina virtual.
 
