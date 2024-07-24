@@ -26,7 +26,7 @@ docker version para verificar se o Docker está instalado e funcionando corretam
 
 docker ps para verificar se o container do WordPress está em execução.
 - deve conter 2 containers 1 wordpress e 1 mysql.
-- ![image](https://github.com/user-attachments/assets/7ceb37e2-851c-4550-98ea-5cdbf557fbd7)
+- ![image](https://github.com/user-attachments/assets/71908d44-ef63-41cd-b569-b6c601339ec4)
 
 No navegador colocar o IP público para acessar o WordPress.
 
