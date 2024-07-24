@@ -19,8 +19,6 @@ terraform plan para ver as alterações que o terraform planeja fazer na infraes
 
 terraform apply para aplicar (fazer as mudanças de fato na infraestrutura. Confirmar com: yes)
 - quando o apply estiver completo, ao final vai mostrar informações do banco de dados e o IP píblico.
-- ![image](https://github.com/user-attachments/assets/32e8366d-32a1-4493-a81e-d7bd9f05f6cb)
-
 
 ssh adminuser@<ip púlico> para conectar-se à máquina virtual.
 
